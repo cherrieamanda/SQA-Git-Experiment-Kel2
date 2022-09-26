@@ -4,7 +4,7 @@
 
 _Wujudkan Impianmu_
 
-[Link record](https://uinjktacid.sharepoint.com/sites/SoftTesting-Q-Sept2022/Shared%20Documents/Kelompok%202/Recordings/Meeting%20in%20_Kelompok%202_-20220919_113254-Meeting%20Recording.mp4?web=1)
+[Link record]()
 
 ---
 
@@ -18,24 +18,26 @@ _Wujudkan Impianmu_
 
 # What
 
-Apa yang dimaksud dengan ayam?
+Apa yang dimaksud dengan git dan github?
+
+Git adalah sebuah sistem pengontrol versi (Version Control System) pada proyek perangkat lunak yang diciptakan oleh Linus Torvalds. Sistem pengontrol versi bertugas mencatat setiap perubahan pada file proyek yang dikerjakan oleh banyak orang maupun sendiri. Git dikenal juga dengan distributed revision control (VCS terdistribusi), artinya penyimpanan database Git tidak hanya berada dalam satu tempat saja.
 
 # Why
 
-Mengapa manusia bernafas?
+Mengapa menggunakan github?
 
 # When
 
-Kapan manusia akan mati?
+Kapan menggunakan github?
 
 # Where
 
-Dimana aku akan dikubur?
+Dimana menggunakan github?
 
 # Who
 
-Siapa yang akan menguburku?
+Siapa yang dapat menggunakan github?
 
 # How
 
-Bagaimana cara menjaga kesehatan?
+Bagimana menggunakan github?
