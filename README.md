@@ -18,7 +18,7 @@ _Wujudkan Impianmu_
 
 # What
 
-Apa yang dimaksud dengan ayam?
+Apa yang dimaksud dengan manusia?
 
 # Why
 
