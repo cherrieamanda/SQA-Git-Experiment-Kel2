@@ -4,6 +4,8 @@
 
 _Wujudkan Impianmu_
 
+[5W 1H tentang Git](SQA%20KELOMPOK%202%20GIT%20EXPERIMENT.docx)
+
 ---
 
 ## Anggota Kelompok
